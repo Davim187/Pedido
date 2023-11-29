@@ -38,6 +38,7 @@ body{
     border: 2px solid white;
     color: aliceblue;
     cursor: pointer;
+    margin-left: -50px;
 }
 #Nao {
     position: absolute;
