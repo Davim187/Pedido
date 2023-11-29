@@ -47,7 +47,6 @@ body{
     border: 2px solid white;
     color: aliceblue;
     cursor: pointer;
-    margin-left: -70px;
 }
 
 @media screen and (min-width: 480px) {
